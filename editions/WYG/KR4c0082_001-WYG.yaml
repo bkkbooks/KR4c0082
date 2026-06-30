@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0082/WYG/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 唐
+  hash: sha256:5ca5981535bf3964e62f2b624f98abf5244a34fc5c2176b3c16d7c5ce64d202c
+metadata:
+  title: 梨嶽詩集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 01:20:34.833439'
+  source:
+    repository: kanripo
+    path: KR4c0082/KR4c0082_001.txt
+hash: sha256:acba2800ae94cefba8ddc8b2e4e49975d0e74611017c423621a8566953438308

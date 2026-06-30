@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4c0082/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4c0082_WYG_001-2a, image: WYG1083/WYG1083-0041a.png}
+metadata:
+  title: 梨嶽詩集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 01:20:34.833439'
+  source:
+    repository: kanripo
+    path: KR4c0082/KR4c0082_000.txt
+hash: sha256:3a71b7d10e8f28f20442790acfc2bb26beada549954d3a46fb51f139f82c1e54
