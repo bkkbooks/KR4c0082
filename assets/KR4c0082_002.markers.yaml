@@ -9,11 +9,14 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4c0082_SBCK_002-1a01}
   - {type: indent, offset: 0, content: 　, id: KR4c0082_krp_002-bkkind1}
   - {type: variant, offset: 0, length: 109, content: 棃嶽詩集補遺目錄卽席送許之曹南省兄送羅著作兩浙按獄右七律二首答韓中丞容不飮酒右七絕一首暮夜宿淸源上人院秋夜宿重本上人院贈立規上人蘇州寒食日送人歸覲右五律四首下第後屏居書懷寄張侍御右五古一首寄舊友西乾耕隱童先輩右五絕一首, WYG: ''}
+  - {type: substitution, offset: 0, original: 棃, replacement: 梨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17316}}
+  - {type: substitution, offset: 7, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'kr:newline', offset: 8, content: '
 
       ', id: KR4c0082_krp_002-bkkkrnewl2}
   - {type: line-break, offset: 8, content: '', id: KR4c0082_SBCK_002-1a02}
   - {type: indent, offset: 8, content: 　　　, id: KR4c0082_krp_002-bkkind2}
+  - {type: substitution, offset: 8, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19475}}
   - {type: 'kr:non-cjk', offset: 12, content: ◍, id: KR4c0082_krp_002-bkkkrnonc1}
   - {type: 'kr:newline', offset: 17, content: '
 
@@ -35,6 +38,7 @@ markers:
       ', id: KR4c0082_krp_002-bkkkrnewl6}
   - {type: line-break, offset: 38, content: '', id: KR4c0082_SBCK_002-1a06}
   - {type: indent, offset: 38, content: 　　　　, id: KR4c0082_krp_002-bkkind6}
+  - {type: substitution, offset: 40, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: 'kr:newline', offset: 43, content: '
 
       ', id: KR4c0082_krp_002-bkkkrnewl7}
@@ -84,8 +88,9 @@ markers:
       ', id: KR4c0082_krp_002-bkkkrnewl16}
   - {type: line-break, offset: 104, content: '', id: KR4c0082_SBCK_002-1b03}
   - {type: indent, offset: 104, content: 　　　　, id: KR4c0082_krp_002-bkkind15}
+  - {type: substitution, offset: 106, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
   - {type: 'kr:newline', offset: 109, content: '
 
       ', id: KR4c0082_krp_002-bkkkrnewl17}
   back: []
-hash: sha256:d0a9dd43e81269edbf8de3bbad6bab3cdf07a1eb6d7922c970196b5ba62761ca
+hash: sha256:d85430be297430766c9259b4cc6684aec066bfae7dc00794f8cdae3a7ba8b2cb
