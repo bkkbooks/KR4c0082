@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 3, content: 附録古, WYG: 唐李頻撰湖口送友人中流欲暮見湘煙葦岸無窮接楚田一作天去鴈逺衝雲夢澤一作雪離人獨上洞庭船風波盡日依山轉星漢通宵向水連零落梅花過殘臘故園歸一作去醉及一作去又新年鄂州頭陀寺上方髙寺上方無不見天涯行客思迢迢西江帆過一作挂東風急夏口城衝一作銜楚塞遥沙渚漁歸多濕網桑林蠶後盡空條感時嘆物尋僧話惟一作誰向禪心得寂寥寄逺槐欲成隂分袂時君期十日復金扉槐}
   - {type: page-break, offset: 0, content: '', id: KR4c0082_WYG_001-1b, image: WYG1083/WYG1083-0040d.png}
   - {type: punctuation, offset: 2, content: (, id: KR4c0082_krp_003-bkkpn1}
+  - {type: voice, offset: 2, length: 6, name: note, id: n1}
   - {type: variant, offset: 4, length: 6, content: 碑記詩序紹興, WYG: 落葉巳將盡君向逺方猶未歸化石早曽聞節婦沉湘何必獨靈妃須知此意同生死不學他人空寄衣題張司馬别墅庭前樹盡手中栽先後花分㡬番開巢鳥戀雛驚不起野人思酒去還來自抛官與青山近誰訝一作料身為白髮一作日催門外尋常行樂處重重履迹在莓苔長安即事長遇豪家不敢過此身誰與取髙科故園久絶書來後南國空㸔鴈去多中夜永懐聽疊漏先秋歸夢渉層波愁人白髮自生早我獨少年能㡬何漢上逢同年崔八去嵗曽遊帝里春杏花開過各離秦偶先托質逢知己獨未還家作旅人世上路岐何繚繞空中光景自逡廵一回相見一離别能得㡬時年少身}
   - {type: page-break, offset: 4, content: '', id: KR4c0082_WYG_001-2a, image: WYG1083/WYG1083-0041a.png}
   - {type: page-break, offset: 4, content: '', id: KR4c0082_WYG_001-2b, image: WYG1083/WYG1083-0041b.png}
@@ -451,6 +452,7 @@ markers:
       ', id: KR4c0082_krp_003-bkkkrnewl80}
   - {type: line-break, offset: 1050, content: '', id: KR4c0082_SBCK_003-4b03}
   - {type: punctuation, offset: 1050, content: (, id: KR4c0082_krp_003-bkkpn3}
+  - {type: voice, offset: 1050, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 1051, content: ), id: KR4c0082_krp_003-bkkpn4}
   - {type: variant, offset: 1051, length: 1, content: 仰, WYG: 鄉縦棹隨歸鳥乘潮向夕陽苦吟身得雪甘意鬢成霜况此年猶少酬知足自強過巫峽擁棹向驚湍巫峯直上看削成従水底一作地底聳出在雲端暮雨晴時少一作晴歸少啼猿渇下難一聞神女去風竹掃空壇送友人往太原離亭聊把酒此路徹邊頭草白鴈來盡時清人去遊汾河流晉地塞雪滿并州别有相思夜空一作遥看北斗愁一作明日相思起蕭條上北樓旅懐萬里共心論徒言吾道存奉親無别業謁帝有何門水宿驚濤浦山行落葉村長安長夢去欹枕即聞猿送裴御史赴湖南開一作闗門鳥道中飛傳復乘驄暮雪離秦甸春雲一作雷入楚宫平蕪天共闊積水地多空使府懸帆去一作待能消㡬日風送姚郜先輩赴汝州辟行李事寒天東來聘禮全州當定鼎處人去偃戈年雨雪一作風雨一作雷雨依嵩嶽桑麻接楚田遥知清夜作不是借戎篇初離黔中泊江上去去把青挂平生心不違更蒙蓮府辟兼脫布衣歸霽嶽一作碧岫明殘雪清波漾落暉無窮幽鳥戯一作興時向一作日起棹前飛黔中酬同院韋判官平生同所為相遇偶然遲各着青袍後無歸白社期江流來絶域府地管諸夷聖代都無事従公且賦詩和范祕書襄陽舊遊聽話揚帆興初従峴首還髙吟入白浪遥看出青山枯樹一作古木猿啼爽寒汀鶴步一作立閑秋來闗一作南去夢㡬夜度商顔秋夜山中思歸寄友人蕭條對秋色相憶在雲泉木落病身起潮平歸思懸凉鐘山頂寺暝火渡頭船此地非吾土淹留又一年自黔中東歸旅次淮上行旅本同愁黔吳復阻脩半年方中路窮節到孤舟夕靄垂隂野晨光動積流家山一夜夢便是昔年遊江夏春感舊東風出海門處處動林園澤國雪霜少沙汀花木繁暖魚依水淺晴鴈入空飜何處陽和力生萍不駐根睂州别李使君一作眉山留獻張端公回首雪峯前朱門心杳然離人自嗚咽流水莫潺湲毒草通蠻徼秋林近漏天一生從此去五字有誰憐送許棠及第歸宣州髙科終自致志業信如神待得逢公道由來合貴身秋歸方覺好舊夢始知真更想青山宅誰為後主人黔中罷職將泛江東黔荒一作中初罷職薄俸亦無殘舉目鄉闗逺攜家旅食難野梅將雪競江月共沙寒兩鬢愁應白何勞一作勞心把鏡看長安書事寄所知帝里本無名端居有道情睡魂春夢短一作斷書興晚牕明老擬歸何處閒應過此生江湖終一日拜别便東行酬姚覃不見又相招何曽訴寂寥醉眠春草長吟坐夜燈銷涙墮思山切身歸轉路遥年年送别處楊栁少垂條春日鄜州贈裴居言雖將身佐幕出入似閒居草色長相待山情信不疎燈前春睡足酒後夜寒餘筆研時時近終非署簿書送于生入蜀家吳聞入蜀道路頗乖離一第何多難都城可少知江山非久適命數未終竒況又將寃抱經春杜魄隨送許棠歸涇縣作尉青桂復青袍一歸榮一髙縣人齊下拜邑宰共分曹遶郭看秧挿尋街聽繭繅封侯萬里者燕頷乃徒勞友人話别論交雖不早話别且相親除却棲禪客誰非南陌人半生都返性終老擬安貧願入白雲社髙眠自致身山居欲出窮吾道東西自未能捲書一作簾}
   - {type: page-break, offset: 1051, content: '', id: KR4c0082_WYG_001-16a, image: WYG1083/WYG1083-0048a.png}
@@ -495,6 +497,7 @@ markers:
   - {type: page-break, offset: 1075, content: '', id: KR4c0082_WYG_001-29b, image: WYG1083/WYG1083-0054d.png}
   - {type: substitution, offset: 1078, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: punctuation, offset: 1081, content: (, id: KR4c0082_krp_003-bkkpn5}
+  - {type: voice, offset: 1081, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 1082, content: ), id: KR4c0082_krp_003-bkkpn6}
   - {type: 'kr:newline', offset: 1082, content: '
 
@@ -717,6 +720,7 @@ markers:
       ', id: KR4c0082_krp_003-bkkkrnewl119}
   - {type: line-break, offset: 1568, content: '', id: KR4c0082_SBCK_003-6a09}
   - {type: punctuation, offset: 1568, content: (, id: KR4c0082_krp_003-bkkpn7}
+  - {type: voice, offset: 1568, length: 1, name: note, id: n4}
   - {type: punctuation, offset: 1569, content: ), id: KR4c0082_krp_003-bkkpn8}
   - {type: substitution, offset: 1582, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'kr:newline', offset: 1584, content: '
@@ -1112,4 +1116,4 @@ markers:
 
       ', id: KR4c0082_krp_003-bkkkrnewl48}
   back: []
-hash: sha256:7d866abce6296127e5fee0c0aa8c95d23136acbd60ac03af35bfbd35c71339b8
+hash: sha256:b3ee4d85da10f6e8d1bea34eb674cca965b2010b0a9089c541c0a10b58163368
